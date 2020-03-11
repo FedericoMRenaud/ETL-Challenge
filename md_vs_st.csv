@@ -1,0 +1,353 @@
+Company,Item,Calories,Carb_g,Fat_g,Fiber_g,Protein,Sodium
+McDonalds,Egg McMuffin,300,31,13.0,4,17,750
+McDonalds,Egg White Delight,250,30,8.0,4,18,770
+McDonalds,Sausage McMuffin,370,29,23.0,4,14,780
+McDonalds,Sausage McMuffin with Egg,450,30,28.0,4,21,860
+McDonalds,Sausage McMuffin with Egg Whites,400,30,23.0,4,21,880
+McDonalds,Steak & Egg McMuffin,430,31,23.0,4,26,960
+McDonalds,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",460,38,26.0,2,19,1300
+McDonalds,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",520,43,30.0,3,19,1410
+McDonalds,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",410,36,20.0,2,20,1300
+McDonalds,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",470,42,25.0,3,20,1420
+McDonalds,Sausage Biscuit (Regular Biscuit),430,34,27.0,2,11,1080
+McDonalds,Sausage Biscuit (Large Biscuit),480,39,31.0,3,11,1190
+McDonalds,Sausage Biscuit with Egg (Regular Biscuit),510,36,33.0,2,18,1170
+McDonalds,Sausage Biscuit with Egg (Large Biscuit),570,42,37.0,3,18,1280
+McDonalds,Sausage Biscuit with Egg Whites (Regular Biscuit),460,34,27.0,2,18,1180
+McDonalds,Sausage Biscuit with Egg Whites (Large Biscuit),520,40,32.0,3,18,1290
+McDonalds,Southern Style Chicken Biscuit (Regular Biscuit),410,41,20.0,2,17,1180
+McDonalds,Southern Style Chicken Biscuit (Large Biscuit),470,46,24.0,3,17,1290
+McDonalds,Steak & Egg Biscuit (Regular Biscuit),540,38,32.0,2,25,1470
+McDonalds,"Bacon, Egg & Cheese McGriddles",460,48,21.0,2,19,1250
+McDonalds,"Bacon, Egg & Cheese McGriddles with Egg Whites",400,47,15.0,2,20,1250
+McDonalds,Sausage McGriddles,420,44,22.0,2,11,1030
+McDonalds,"Sausage, Egg & Cheese McGriddles",550,48,31.0,2,20,1320
+McDonalds,"Sausage, Egg & Cheese McGriddles with Egg Whites",500,46,26.0,2,21,1320
+McDonalds,"Bacon, Egg & Cheese Bagel",620,57,31.0,3,30,1480
+McDonalds,"Bacon, Egg & Cheese Bagel with Egg Whites",570,55,25.0,3,30,1480
+McDonalds,"Steak, Egg & Cheese Bagel",670,56,35.0,3,33,1510
+McDonalds,Big Breakfast (Regular Biscuit),740,51,48.0,3,28,1560
+McDonalds,Big Breakfast (Large Biscuit),800,56,52.0,4,28,1680
+McDonalds,Big Breakfast with Egg Whites (Regular Biscuit),640,50,37.0,3,26,1590
+McDonalds,Big Breakfast with Egg Whites (Large Biscuit),690,55,41.0,4,26,1700
+McDonalds,Big Breakfast with Hotcakes (Regular Biscuit),1090,111,56.0,6,36,2150
+McDonalds,Big Breakfast with Hotcakes (Large Biscuit),1150,116,60.0,7,36,2260
+McDonalds,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),990,110,46.0,6,35,2170
+McDonalds,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),1050,115,50.0,7,35,2290
+McDonalds,Hotcakes,350,60,9.0,3,8,590
+McDonalds,Hotcakes and Sausage,520,61,24.0,3,15,930
+McDonalds,Sausage Burrito,300,26,16.0,1,12,790
+McDonalds,Hash Brown,150,15,9.0,2,1,310
+McDonalds,Cinnamon Melts,460,66,19.0,3,6,370
+McDonalds,Fruit & Maple Oatmeal,290,58,4.0,5,5,160
+McDonalds,Fruit & Maple Oatmeal without Brown Sugar,260,49,4.0,5,5,115
+McDonalds,Big Mac,530,47,27.0,3,24,960
+McDonalds,Quarter Pounder with Cheese,520,41,26.0,3,30,1100
+McDonalds,Quarter Pounder with Bacon & Cheese,600,48,29.0,3,37,1440
+McDonalds,Quarter Pounder with Bacon Habanero Ranch,610,46,31.0,3,37,1180
+McDonalds,Quarter Pounder Deluxe,540,45,27.0,3,29,960
+McDonalds,Double Quarter Pounder with Cheese,750,42,43.0,3,48,1280
+McDonalds,Hamburger,240,32,8.0,1,12,480
+McDonalds,Cheeseburger,290,33,11.0,2,15,680
+McDonalds,Double Cheeseburger,430,35,21.0,2,24,1040
+McDonalds,Bacon Clubhouse Burger,720,51,40.0,4,39,1470
+McDonalds,McDouble,380,34,17.0,2,22,840
+McDonalds,Bacon McDouble,440,35,22.0,2,27,1110
+McDonalds,Daily Double,430,34,22.0,2,22,760
+McDonalds,Jalapeño Double,430,35,23.0,2,22,1030
+McDonalds,McRib,500,44,26.0,3,22,980
+McDonalds,Premium Crispy Chicken Classic Sandwich,510,55,22.0,3,24,990
+McDonalds,Premium Grilled Chicken Classic Sandwich,350,42,9.0,3,28,820
+McDonalds,Premium Crispy Chicken Club Sandwich,670,58,33.0,3,36,1410
+McDonalds,Premium Grilled Chicken Club Sandwich,510,44,20.0,3,40,1250
+McDonalds,Premium Crispy Chicken Ranch BLT Sandwich,610,57,28.0,3,32,1400
+McDonalds,Premium Grilled Chicken Ranch BLT Sandwich,450,43,15.0,3,36,1230
+McDonalds,Bacon Clubhouse Crispy Chicken Sandwich,750,65,38.0,4,36,1720
+McDonalds,Bacon Clubhouse Grilled Chicken Sandwich,590,51,25.0,4,40,1560
+McDonalds,Southern Style Crispy Chicken Sandwich,430,43,19.0,2,21,910
+McDonalds,McChicken,360,40,16.0,2,14,800
+McDonalds,Bacon Cheddar McChicken,480,43,24.0,2,22,1260
+McDonalds,Bacon Buffalo Ranch McChicken,430,41,21.0,2,20,1260
+McDonalds,Buffalo Ranch McChicken,360,40,16.0,2,14,990
+McDonalds,Premium McWrap Chicken & Bacon (Crispy Chicken),630,56,32.0,3,32,1540
+McDonalds,Premium McWrap Chicken & Bacon (Grilled Chicken),480,42,19.0,3,36,1370
+McDonalds,Premium McWrap Chicken & Ranch (Crispy Chicken),610,56,31.0,3,27,1340
+McDonalds,Premium McWrap Chicken & Ranch (Grilled Chicken),450,42,18.0,3,30,1170
+McDonalds,Premium McWrap Southwest Chicken (Crispy Chicken),670,68,33.0,5,27,1480
+McDonalds,Premium McWrap Southwest Chicken (Grilled Chicken),520,55,20.0,5,31,1320
+McDonalds,Premium McWrap Chicken Sweet Chili (Crispy Chicken),540,61,23.0,3,23,1260
+McDonalds,Premium McWrap Chicken Sweet Chili (Grilled Chicken),380,47,10.0,3,27,1090
+McDonalds,Chicken McNuggets (4 piece),190,12,12.0,1,9,360
+McDonalds,Chicken McNuggets (6 piece),280,18,18.0,1,13,540
+McDonalds,Chicken McNuggets (10 piece),470,30,30.0,2,22,900
+McDonalds,Chicken McNuggets (20 piece),940,59,59.0,3,44,1800
+McDonalds,Chicken McNuggets (40 piece),1880,118,118.0,6,87,3600
+McDonalds,Filet-O-Fish,390,39,19.0,2,15,590
+McDonalds,Premium Bacon Ranch Salad (without Chicken),140,10,7.0,3,9,300
+McDonalds,Premium Bacon Ranch Salad with Crispy Chicken,380,22,21.0,2,25,860
+McDonalds,Premium Bacon Ranch Salad with Grilled Chicken,220,8,8.0,2,29,690
+McDonalds,Premium Southwest Salad (without Chicken),140,20,4.5,6,6,150
+McDonalds,Premium Southwest Salad with Crispy Chicken,450,42,22.0,7,23,850
+McDonalds,Premium Southwest Salad with Grilled Chicken,290,28,8.0,7,27,680
+McDonalds,Chipotle BBQ Snack Wrap (Crispy Chicken),340,37,15.0,1,14,780
+McDonalds,Chipotle BBQ Snack Wrap (Grilled Chicken),260,30,8.0,1,16,700
+McDonalds,Honey Mustard Snack Wrap (Crispy Chicken),330,34,15.0,1,14,730
+McDonalds,Honey Mustard Snack Wrap (Grilled Chicken),250,27,8.0,1,16,650
+McDonalds,Ranch Snack Wrap (Crispy Chicken),360,32,20.0,1,15,810
+McDonalds,Ranch Snack Wrap (Grilled Chicken),280,25,13.0,1,16,720
+McDonalds,Small French Fries,230,30,11.0,2,2,130
+McDonalds,Medium French Fries,340,44,16.0,4,4,190
+McDonalds,Large French Fries,510,67,24.0,5,6,290
+McDonalds,Kids French Fries,110,15,5.0,1,1,65
+McDonalds,Side Salad,20,4,0.0,1,1,10
+McDonalds,Apple Slices,15,4,0.0,0,0,0
+McDonalds,Fruit 'n Yogurt Parfait,150,30,2.0,1,4,70
+McDonalds,Baked Apple Pie,250,32,13.0,4,2,170
+McDonalds,Chocolate Chip Cookie,160,21,8.0,1,2,90
+McDonalds,Oatmeal Raisin Cookie,150,22,6.0,1,2,135
+McDonalds,Kids Ice Cream Cone,45,7,1.5,0,1,20
+McDonalds,Hot Fudge Sundae,330,53,9.0,1,8,170
+McDonalds,Hot Caramel Sundae,340,60,8.0,0,7,150
+McDonalds,Strawberry Sundae,280,49,6.0,0,6,85
+McDonalds,Coca-Cola Classic (Small),140,39,0.0,0,0,0
+McDonalds,Coca-Cola Classic (Medium),200,55,0.0,0,0,5
+McDonalds,Coca-Cola Classic (Large),280,76,0.0,0,0,5
+McDonalds,Coca-Cola Classic (Child),100,28,0.0,0,0,0
+McDonalds,Diet Coke (Small),0,0,0.0,0,0,10
+McDonalds,Diet Coke (Medium),0,0,0.0,0,0,20
+McDonalds,Diet Coke (Large),0,0,0.0,0,0,35
+McDonalds,Diet Coke (Child),0,0,0.0,0,0,15
+McDonalds,Dr Pepper (Small),140,37,0.0,0,0,45
+McDonalds,Dr Pepper (Medium),190,53,0.0,0,0,65
+McDonalds,Dr Pepper (Large),270,72,0.0,0,0,90
+McDonalds,Dr Pepper (Child),100,27,0.0,0,0,30
+McDonalds,Diet Dr Pepper (Small),0,0,0.0,0,2,70
+McDonalds,Diet Dr Pepper (Medium),0,0,0.0,0,3,100
+McDonalds,Diet Dr Pepper (Large),0,0,0.0,0,4,140
+McDonalds,Diet Dr Pepper (Child),0,0,0.0,0,1,50
+McDonalds,Sprite (Small),140,37,0.0,0,0,30
+McDonalds,Sprite (Medium),200,54,0.0,0,0,45
+McDonalds,Sprite (Large),280,74,0.0,0,0,60
+McDonalds,Sprite (Child),100,27,0.0,0,0,25
+McDonalds,1% Low Fat Milk Jug,100,12,2.5,0,8,125
+McDonalds,Fat Free Chocolate Milk Jug,130,23,0.0,1,9,135
+McDonalds,Minute Maid 100% Apple Juice Box,80,21,0.0,0,0,15
+McDonalds,Minute Maid Orange Juice (Small),150,34,0.0,0,2,0
+McDonalds,Minute Maid Orange Juice (Medium),190,44,0.0,0,3,0
+McDonalds,Minute Maid Orange Juice (Large),280,65,0.0,0,4,5
+McDonalds,Dasani Water Bottle,0,0,0.0,0,0,0
+McDonalds,Iced Tea (Small),0,0,0.0,0,0,10
+McDonalds,Iced Tea (Medium),0,0,0.0,0,0,10
+McDonalds,Iced Tea (Large),0,0,0.0,0,0,15
+McDonalds,Iced Tea (Child),0,0,0.0,0,0,5
+McDonalds,Sweet Tea (Small),150,36,0.0,0,1,10
+McDonalds,Sweet Tea (Medium),180,45,0.0,0,1,10
+McDonalds,Sweet Tea (Large),220,54,0.0,0,1,10
+McDonalds,Sweet Tea (Child),110,27,0.0,0,0,5
+McDonalds,Coffee (Small),0,0,0.0,0,0,0
+McDonalds,Coffee (Medium),0,0,0.0,0,0,0
+McDonalds,Coffee (Large),0,0,0.0,0,0,0
+McDonalds,Latte (Small),170,15,9.0,1,9,115
+McDonalds,Latte (Medium),210,18,10.0,1,11,140
+McDonalds,Latte (Large),280,24,14.0,1,15,180
+McDonalds,Caramel Latte (Small),270,40,9.0,1,9,115
+McDonalds,Caramel Latte (Medium),340,50,10.0,1,11,140
+McDonalds,Caramel Latte (Large),430,62,14.0,1,15,180
+McDonalds,Hazelnut Latte (Small),270,40,9.0,1,9,115
+McDonalds,Hazelnut Latte (Medium),330,50,10.0,1,11,140
+McDonalds,Hazelnut Latte (Large),430,62,14.0,1,15,180
+McDonalds,French Vanilla Latte (Small),260,38,9.0,1,9,115
+McDonalds,French Vanilla Latte (Medium),330,48,10.0,1,11,140
+McDonalds,French Vanilla Latte (Large),420,60,14.0,1,15,190
+McDonalds,Latte with Sugar Free French Vanilla Syrup (Small),210,24,9.0,1,9,150
+McDonalds,Latte with Sugar Free French Vanilla Syrup (Medium),260,29,10.0,1,12,190
+McDonalds,Latte with Sugar Free French Vanilla Syrup (Large),330,37,14.0,2,15,240
+McDonalds,Nonfat Latte (Small),100,15,0.0,1,10,110
+McDonalds,Nonfat Latte (Medium),130,19,0.0,1,12,135
+McDonalds,Nonfat Latte (Large),170,25,0.5,1,16,180
+McDonalds,Nonfat Caramel Latte (Small),200,41,0.0,1,10,110
+McDonalds,Nonfat Caramel Latte (Medium),250,51,0.0,1,12,135
+McDonalds,Nonfat Caramel Latte (Large),310,63,0.5,1,16,180
+McDonalds,Nonfat Hazelnut Latte (Small),200,40,0.0,1,10,110
+McDonalds,Nonfat Hazelnut Latte (Medium),250,51,0.0,1,12,135
+McDonalds,Nonfat Hazelnut Latte (Large),310,63,0.5,1,16,180
+McDonalds,Nonfat French Vanilla Latte (Small),190,39,0.0,1,10,115
+McDonalds,Nonfat French Vanilla Latte (Medium),240,49,0.0,1,12,140
+McDonalds,Nonfat French Vanilla Latte (Large),300,60,0.5,1,16,180
+McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),140,24,0.0,1,10,150
+McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),170,30,0.0,1,12,180
+McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),220,38,0.5,2,16,240
+McDonalds,Mocha (Small),340,49,11.0,2,10,150
+McDonalds,Mocha (Medium),410,60,14.0,2,13,190
+McDonalds,Mocha (Large),500,72,17.0,2,16,240
+McDonalds,Mocha with Nonfat Milk (Small),270,49,3.5,2,11,150
+McDonalds,Mocha with Nonfat Milk (Medium),330,60,3.5,2,13,190
+McDonalds,Mocha with Nonfat Milk (Large),390,73,4.0,2,17,240
+McDonalds,Caramel Mocha (Small),320,45,11.0,1,10,170
+McDonalds,Caramel Mocha (Medium),390,55,14.0,1,12,220
+McDonalds,Caramel Mocha (Large),480,66,17.0,1,16,270
+McDonalds,Nonfat Caramel Mocha (Small),250,45,3.5,1,10,170
+McDonalds,Nonfat Caramel Mocha (Medium),310,56,3.5,1,13,210
+McDonalds,Nonfat Caramel Mocha (Large),370,67,3.5,1,17,270
+McDonalds,Hot Chocolate (Small),360,50,13.0,1,11,180
+McDonalds,Hot Chocolate (Medium),440,61,16.0,1,14,220
+McDonalds,Hot Chocolate (Large),540,73,20.0,1,17,280
+McDonalds,Hot Chocolate with Nonfat Milk (Small),280,50,3.5,1,12,180
+McDonalds,Hot Chocolate with Nonfat Milk (Medium),340,61,3.5,1,14,220
+McDonalds,Hot Chocolate with Nonfat Milk (Large),400,74,3.5,1,19,280
+McDonalds,Regular Iced Coffee (Small),140,23,4.5,0,1,35
+McDonalds,Regular Iced Coffee (Medium),190,31,7.0,0,1,50
+McDonalds,Regular Iced Coffee (Large),270,47,9.0,0,2,75
+McDonalds,Caramel Iced Coffee (Small),130,22,4.5,0,1,35
+McDonalds,Caramel Iced Coffee (Medium),180,29,7.0,0,1,50
+McDonalds,Caramel Iced Coffee (Large),260,43,9.0,0,2,65
+McDonalds,Hazelnut Iced Coffee (Small),130,21,4.5,0,1,35
+McDonalds,Hazelnut Iced Coffee (Medium),180,29,7.0,0,1,50
+McDonalds,Hazelnut Iced Coffee (Large),250,43,9.0,0,2,75
+McDonalds,French Vanilla Iced Coffee (Small),120,20,4.5,0,1,40
+McDonalds,French Vanilla Iced Coffee (Medium),170,27,7.0,0,1,55
+McDonalds,French Vanilla Iced Coffee (Large),240,41,9.0,0,2,80
+McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Small),80,9,4.5,0,1,65
+McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),120,12,7.0,0,1,90
+McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Large),160,18,9.0,0,2,135
+McDonalds,Iced Mocha (Small),290,41,11.0,1,8,125
+McDonalds,Iced Mocha (Medium),350,50,13.0,1,9,150
+McDonalds,Iced Mocha (Large),480,70,16.0,2,14,220
+McDonalds,Iced Mocha with Nonfat Milk (Small),240,41,5.0,1,8,125
+McDonalds,Iced Mocha with Nonfat Milk (Medium),290,50,5.0,1,10,150
+McDonalds,Iced Mocha with Nonfat Milk (Large),390,71,6.0,2,14,220
+McDonalds,Iced Caramel Mocha (Small),280,38,11.0,0,8,140
+McDonalds,Iced Caramel Mocha (Medium),340,46,13.0,1,9,170
+McDonalds,Iced Caramel Mocha (Large),460,65,16.0,1,13,250
+McDonalds,Iced Nonfat Caramel Mocha (Small),230,38,5.0,0,8,140
+McDonalds,Iced Nonfat Caramel Mocha (Medium),270,47,5.0,1,10,170
+McDonalds,Iced Nonfat Caramel Mocha (Large),370,65,6.0,1,14,250
+McDonalds,Frappé Mocha (Small),450,65,18.0,1,7,125
+McDonalds,Frappé Mocha (Medium),550,80,22.0,1,9,160
+McDonalds,Frappé Mocha (Large),670,98,26.0,1,11,190
+McDonalds,Frappé Caramel (Small),450,64,19.0,0,7,125
+McDonalds,Frappé Caramel (Medium),550,79,23.0,0,9,160
+McDonalds,Frappé Caramel (Large),670,96,27.0,0,11,190
+McDonalds,Frappé Chocolate Chip (Small),530,76,23.0,1,8,135
+McDonalds,Frappé Chocolate Chip (Medium),630,91,26.0,1,9,160
+McDonalds,Frappé Chocolate Chip (Large),760,111,31.0,1,12,200
+McDonalds,Blueberry Pomegranate Smoothie (Small),220,50,0.5,3,2,40
+McDonalds,Blueberry Pomegranate Smoothie (Medium),260,62,1.0,4,3,50
+McDonalds,Blueberry Pomegranate Smoothie (Large),340,79,1.0,5,4,65
+McDonalds,Strawberry Banana Smoothie (Small),210,47,0.5,3,3,50
+McDonalds,Strawberry Banana Smoothie (Medium),250,58,1.0,3,4,60
+McDonalds,Strawberry Banana Smoothie (Large),330,74,1.0,4,5,80
+McDonalds,Mango Pineapple Smoothie (Small),210,50,0.5,1,2,40
+McDonalds,Mango Pineapple Smoothie (Medium),260,61,1.0,1,3,45
+McDonalds,Mango Pineapple Smoothie (Large),340,78,1.0,2,4,60
+McDonalds,Vanilla Shake (Small),530,86,15.0,0,11,160
+McDonalds,Vanilla Shake (Medium),660,109,19.0,0,14,200
+McDonalds,Vanilla Shake (Large),820,135,23.0,0,18,260
+McDonalds,Strawberry Shake (Small),550,90,16.0,0,12,160
+McDonalds,Strawberry Shake (Medium),690,114,20.0,0,15,210
+McDonalds,Strawberry Shake (Large),850,140,24.0,0,18,260
+McDonalds,Chocolate Shake (Small),560,91,16.0,1,12,240
+McDonalds,Chocolate Shake (Medium),700,114,20.0,2,15,300
+McDonalds,Chocolate Shake (Large),850,141,23.0,2,19,380
+McDonalds,Shamrock Shake (Medium),660,109,19.0,0,14,210
+McDonalds,Shamrock Shake (Large),820,135,23.0,0,18,260
+McDonalds,McFlurry with M&M’s Candies (Small),650,96,23.0,1,13,180
+McDonalds,McFlurry with M&M’s Candies (Medium),930,139,33.0,2,20,260
+McDonalds,McFlurry with M&M’s Candies (Snack),430,64,15.0,1,9,120
+McDonalds,McFlurry with Oreo Cookies (Small),510,80,17.0,1,12,280
+McDonalds,McFlurry with Oreo Cookies (Medium),690,106,23.0,1,15,380
+McDonalds,McFlurry with Oreo Cookies (Snack),340,53,11.0,1,8,190
+McDonalds,McFlurry with Reese's Peanut Butter Cups (Medium),810,114,32.0,2,21,400
+McDonalds,McFlurry with Reese's Peanut Butter Cups (Snack),410,57,16.0,1,10,200
+Starbucks,Starbucks Signature Hot Chocolate,430,45,26,5,12,115
+Starbucks,White Chocolate Mocha,360,53,11,0,14,240
+Starbucks,Cinnamon Dolce Frappuccino® Blended Coffee,350,64,4.5,0,15,0
+Starbucks,Hot Chocolate,320,47,9,4,14,160
+Starbucks,Iced Coffee,0,0,0,0,0,0
+Starbucks,Chocolate Smoothie,320,53,5,8,20,170
+Starbucks,Iced White Chocolate Mocha,300,47,8,0,10,190
+Starbucks,Strawberry Smoothie,300,60,2,7,16,130
+Starbucks,Caffè Mocha,290,42,8,4,13,140
+Starbucks,Mocha Frappuccino® Blended Coffee,280,60,2.5,2,4,220
+Starbucks,Cinnamon Dolce Latte,260,40,6,0,11,150
+Starbucks,Iced Coconutmilk Mocha Macchiato,260,34,9,0,11,180
+Starbucks,Caramel Macchiato,250,35,7,0,10,150
+Starbucks,Coconutmilk Mocha Macchiato,250,32,9,0,12,180
+Starbucks,Iced Caramel Macchiato,250,37,7,0,10,150
+Starbucks,Vanilla Latte,250,37,6,0,12,150
+Starbucks,Iced Caffè Mocha,230,36,6,4,9,90
+Starbucks,Starbucks® Doubleshot Protein Dark Chocolate,210,33,2.5,2,20,115
+Starbucks,Starbucks® Doubleshot Protein Vanilla,200,34,2.5,2,20,120
+Starbucks,Iced Cinnamon Dolce Latte,200,34,4,0,7,95
+Starbucks,Cinnamon Dolce Crème,200,28,6,0,10,135
+Starbucks,Vanilla Crème,200,28,6,0,10,135
+Starbucks,Caffè Latte,190,19,7,0,13,170
+Starbucks,Iced Vanilla Latte,190,30,4,0,7,100
+Starbucks,Latte Macchiato,190,19,7,0,12,160
+Starbucks,Latte Macchiato,190,19,7,0,12,160
+Starbucks,Flat White,180,18,7,0,12,160
+Starbucks,Tazo® Bottled Black Mango,150,38,0,0,0,15
+Starbucks,Tazo® Bottled Giant Peach,150,37,0,0,0,15
+Starbucks,Tazo® Bottled Tazoberry,150,38,0,0,0,15
+Starbucks,Tazo® Bottled Black Mango,150,38,0,0,0,15
+Starbucks,Tazo® Bottled Giant Peach,150,37,0,0,0,15
+Starbucks,Tazo® Bottled Tazoberry,150,38,0,0,0,15
+Starbucks,Iced Espresso Classics - Caffe Mocha,140,23,2.5,0,5,90
+Starbucks,Tazo® Bottled Black with Lemon,140,35,0,0,0,10
+Starbucks,Tazo® Bottled Brambleberry,140,35,0,0,0,15
+Starbucks,Tazo® Bottled Organic Black Lemonade,140,35,0,0,0,10
+Starbucks,Tazo® Bottled Plum Pomegranate,140,35,0,0,0,10
+Starbucks,Tazo® Bottled White Cranberry,140,35,0,0,0,10
+Starbucks,Iced Espresso Classics - Caffe Mocha,140,23,2.5,0,5,90
+Starbucks,Tazo® Bottled Black with Lemon,140,35,0,0,0,10
+Starbucks,Tazo® Bottled Brambleberry,140,35,0,0,0,15
+Starbucks,Tazo® Bottled Organic Black Lemonade,140,35,0,0,0,10
+Starbucks,Tazo® Bottled Plum Pomegranate,140,35,0,0,0,10
+Starbucks,Tazo® Bottled White Cranberry,140,35,0,0,0,10
+Starbucks,Mocha Light Frappuccino® Blended Coffee,140,28,0.5,1,4,180
+Starbucks,Iced Espresso Classics - Vanilla Latte,130,21,2.5,0,5,65
+Starbucks,Iced Espresso Classics - Caramel Macchiato,130,21,2.5,0,5,65
+Starbucks,Iced Espresso Classics - Vanilla Latte,130,21,2.5,0,5,65
+Starbucks,Iced Espresso Classics - Caramel Macchiato,130,21,2.5,0,5,65
+Starbucks,Iced Caffè Latte,130,13,4.5,0,8,115
+Starbucks,Tazo® Bottled Lemon Ginger,120,31,0,0,0,10
+Starbucks,Tazo® Bottled Organic Iced Green Tea,120,31,0,0,0,10
+Starbucks,Tazo® Bottled Lemon Ginger,120,31,0,0,0,10
+Starbucks,Tazo® Bottled Organic Iced Green Tea,120,31,0,0,0,10
+Starbucks,Cappuccino,120,12,4,0,8,100
+Starbucks,Evolution Fresh™ Organic Ginger Limeade,110,28,0,0,0,5
+Starbucks,Vanilla Sweet Cream Cold Brew,110,14,6,0,1,25
+Starbucks,Nariño 70 Cold Brew with Milk,0,0,0,0,0,0
+Starbucks,Coffee Light Frappuccino® Blended Coffee,110,24,0,0,3,200
+Starbucks,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,90,24,0,0,0,0
+Starbucks,Starbucks Refreshers™ Raspberry Pomegranate,90,27,0,0,0,0
+Starbucks,Starbucks Refreshers™ Strawberry Lemonade,90,27,0,0,0,0
+Starbucks,Strawberry Acai Starbucks Refreshers™ Beverage,80,18,0,1,0,10
+Starbucks,Shaken Sweet Tea,80,19,0,0,0,10
+Starbucks,Tazo® Bottled Iced Passion,70,17,0,0,0,10
+Starbucks,Teavana® Shaken Iced Black Tea Lemonade,70,17,0,0,0,0
+Starbucks,Teavana® Shaken Iced Green Tea Lemonade,70,17,0,0,0,5
+Starbucks,Tazo® Bottled Iced Passion,70,17,0,0,0,10
+Starbucks,Nitro Cold Brew with Sweet Cream,70,5,5,0,1,20
+Starbucks,Very Berry Hibiscus Starbucks Refreshers™ Beverage,60,14,0,1,0,10
+Starbucks,Tazo® Bottled Berry Blossom White,60,15,0,0,0,10
+Starbucks,Tazo® Bottled Organic Iced Black Tea,60,15,0,0,0,10
+Starbucks,Teavana® Shaken Iced Peach Green Tea,60,15,0,0,0,0
+Starbucks,Starbucks® Iced Coffee Caramel,60,13,0,0,1,0
+Starbucks,Tazo® Bottled Berry Blossom White,60,15,0,0,0,10
+Starbucks,Tazo® Bottled Organic Iced Black Tea,60,15,0,0,0,10
+Starbucks,Starbucks® Iced Coffee Light Sweetened,50,11,0,0,1,0
+Starbucks,Cool Lime Starbucks Refreshers™ Beverage,45,11,0,0,0,10
+Starbucks,Starbucks Doubleshot® on Ice Beverage,45,5,1,0,3,40
+Starbucks,Teavana® Shaken Iced Black Tea,30,8,0,0,0,5
+Starbucks,Teavana® Shaken Iced Green Tea,30,8,0,0,0,5
+Starbucks,Teavana® Shaken Iced Passion Tango™ Tea,30,8,0,0,0,5
+Starbucks,Starbucks® Iced Coffee Unsweetened,10,2,0,0,1,0
+Starbucks,Clover® Brewed Coffee,10,0,0,0,1,10
+Starbucks,Blonde Roast,5,0,0,0,1,10
+Starbucks,Decaf Pike Place® Roast,5,0,0,0,1,10
+Starbucks,Featured Dark Roast,5,0,0,0,1,10
+Starbucks,Iced Coffee,5,0,0,0,0,5
+Starbucks,Nariño 70 Cold Brew,5,0,0,0,0,15
+Starbucks,Nitro Cold Brew,5,0,0,0,0,10
+Starbucks,Pike Place® Roast,5,0,0,0,1,10
